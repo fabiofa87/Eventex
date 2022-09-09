@@ -1,0 +1,19 @@
+
+Olá, tudo bemn?
+
+Muito obrigado por se inscrever no Eventex.
+
+Estes foram os dados que você nos enviou:
+
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Em até 48 horas você receberá um email com a confirmação de sua inscrição.
+
+Atenciosamente,
+---
+Equipe Eventex
+---
